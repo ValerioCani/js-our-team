@@ -15,16 +15,16 @@ Stampare su console le informazioni di nome, ruolo e la stringa della foto -->
 <!-- MILESTONE 2:
 Stampare le stesse informazioni su DOM sottoforma di stringhe -->
 
-BONUS 1:
-Trasformare la stringa foto in una immagine effettiva
+<!-- BONUS 1:
+Trasformare la stringa foto in una immagine effettiva -->
 
-BONUS 2:
+<!-- BONUS 2:
 Organizzare i singoli membri in card/schede
 Consigli del giorno:
 Ragioniamo come sempre a step.
 Prima la logica in italiano e poi traduciamo in codice.
 E ricordiamoci che console.log() è nostro amico!
-Buon lavoro!
+Buon lavoro! -->
 
 PS: Vi lascio anche uno screenshot da cui trarre ispirazione… sentitevi liberi di implementare l’eventuale parte grafica come preferite!
 
